@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: deeppink;
+}
+textarea{
+    font-family: bahnschrift;
+    font-size: 20px;
+}
+#container{
+    /*background-color: deeppink;*/
+    margin-top: 10%;
+
+}
+h1{
+    text-align: center;
+}
+#b1, #b2{
+    width: 30%;
+    height: 50%;
+}
+#b1{
+    margin-right: 5%;
+    margin-left: 15%;
+}
+h3{
+    display: inline-flex;
+    margin-left: 28%;
+}
